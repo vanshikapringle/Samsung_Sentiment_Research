@@ -1,0 +1,29 @@
+# Python / Virtual Environment
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables & Secrets
+.env
+.env.local
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Streamlit Cache
+.streamlit/
+
+# Large Datasets & Model Weights (Optional - uncomment if files exceed 100MB)
+# *.csv
+# samsung_roberta_finetuned/
+# results/
+
+# Jupyter / Colab Checkpoints
+.ipynb_checkpoints/
